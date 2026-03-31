@@ -102,7 +102,7 @@
 * 성환읍: 이화아파트 인근 
 
 📌 MCLP와 P-median 모델 결과를 결합하여 도출한 최종 입지 지도
-![최종 입지 지도](./results/final_map.png)
+![최종 입지 지도](./result/final_map.png)
 
 ---
 
